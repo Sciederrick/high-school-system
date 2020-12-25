@@ -1,11 +1,13 @@
-/**
-* Template Name: Selecao - v2.3.0
-* Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 !(function($) {
   "use strict";
+  // Activating pagination links on click
+  $(document).on('click', '.custom-pagination-item', function(e) {
+    if ($('a').hasClass('pagination-link-active')) {
+      $('a').removeClass('pagination-link-active');
+    }
+    $(e.target).addClass('pagination-link-active');
+  });
+
 
   // Smooth scroll for the navigation menu and links with .scrollto classes
   var scrolltoOffset = $('#header').outerHeight() - 1;
