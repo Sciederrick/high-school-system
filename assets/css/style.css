@@ -16,6 +16,16 @@ a:hover {
   text-decoration: none;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&family=Redressed&display=swap');
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.font-informal {
+  font-family: "Redressed", cursive;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
