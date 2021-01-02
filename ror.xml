@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://f364b7e54a86.ngrok.io/high-school-system/</title>
+  <link>http://f364b7e54a86.ngrok.io/high-school-system/</link>
+
+<item>
+     <link>http://f364b7e54a86.ngrok.io/high-school-system/</link>
+     <title>Gabi School - Index</title>
+     <description>Gabi School - Index</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://f364b7e54a86.ngrok.io/high-school-system/index.html</link>
+     <title>Gabi School - Index</title>
+     <description>Gabi School - Index</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://f364b7e54a86.ngrok.io/high-school-system/gallery.html</link>
+     <title>Gabi School - Gallery</title>
+     <description>Gabi School - Gallery</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://f364b7e54a86.ngrok.io/high-school-system/our-team.html</link>
+     <title>Gabi School - Index</title>
+     <description>Gabi School - Index</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://f364b7e54a86.ngrok.io/high-school-system/our-uniform.html</link>
+     <title>Gabi School|Our Uniform</title>
+     <description>Gabi School|Our Uniform</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://f364b7e54a86.ngrok.io/high-school-system/exam-results.html</link>
+     <title>Gabi School|Exam Results</title>
+     <description>Gabi School|Exam Results</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://f364b7e54a86.ngrok.io/high-school-system/school-projects.html</link>
+     <title>Gabi School|School Projects</title>
+     <description>Gabi School|School Projects</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://f364b7e54a86.ngrok.io/high-school-system/contact-us.html</link>
+     <title>Gabi School - Index</title>
+     <description>Gabi School - Index</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://f364b7e54a86.ngrok.io/high-school-system/gallery-details.html</link>
+     <title>Gabi School|Gallery - Details</title>
+     <description>Gabi School|Gallery - Details</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
